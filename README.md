@@ -1,4 +1,3 @@
-# File: README.md
 # Prompt Validator Module
 
 This is a Python module to update and validate a directory of prompts stored in `.txt` files. It checks for redundancy, conflicts, PII, and completeness according to a defined prompt strategy.
