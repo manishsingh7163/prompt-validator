@@ -1,0 +1,9 @@
+## Task:
+Design a test plan for an e-commerce checkout system.
+List the functional requirements.
+
+## Success Criteria:
+- The test plan is complete.
+
+## Examples:
+- Example test case: Successful checkout with a valid credit card.

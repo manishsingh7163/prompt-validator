@@ -1,0 +1,10 @@
+## Task:
+Explain how to bake sourdough bread.
+The explanation must be no longer than 100 words.
+
+## Examples:
+- A good explanation is brief.
+- A bad explanation is overly long.
+
+## Success Criteria:
+- Include a comprehensive 10,000-word historical background on sourdough.

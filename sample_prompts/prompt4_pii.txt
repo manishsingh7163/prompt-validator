@@ -1,0 +1,10 @@
+## Task:
+Write an email to John Smith at john.smith@example.com explaining the
+meeting schedule.
+Include his phone number (555-123-4567) for confirmation.
+
+## Success Criteria:
+- The email is clear and professional.
+
+## Examples:
+- Subject: Meeting Schedule Confirmation
